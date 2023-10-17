@@ -12,6 +12,7 @@ import numpy as np
 import torch
 import nvdiffrast.torch as dr
 import imageio
+# import imageio.v2 as imageio
 import torchvision.transforms as transforms
 from .resize_right import resize
 import random
